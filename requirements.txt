@@ -1,0 +1,6 @@
+Flask
+plotly
+pandas
+sqlalchemy
+yfinance
+mysql-connector-python
